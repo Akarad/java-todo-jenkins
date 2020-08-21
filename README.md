@@ -5,4 +5,4 @@ Each branch contains a new "Step" of code. Please fork, then clone.
 
 Author Diana Akara Moringa 
 
-just testing it out
+just testing things
